@@ -7,7 +7,7 @@ I’m Pranav Goenka, a driven and detail-oriented individual with a strong inter
 
 📍 Location: India
 
-🎓 Background: Engineering graduate with strong analytical & problem-solving skills
+🎓 Background: Final-year engineering under-graduate with strong analytical & problem-solving skills
 
 ✍️ Creative Side: I write Hindi poems and short stories in my free time
 
@@ -17,21 +17,13 @@ I’m Pranav Goenka, a driven and detail-oriented individual with a strong inter
 
 🛠 Technical Arsenal
 
-1. Programming & Query Languages:
+1. Programming & Query Languages - Python, SQL
 
-Python, SQL
+2. Data & Analytics Tools - Power BI, Excel, Google Sheets, Tableau
 
-2. Data & Analytics Tools:
+3. Databases - MySQL, PostgreSQL
 
-Power BI, Excel, Google Sheets, Tableau
-
-3. Databases:
-
-MySQL, PostgreSQL
-
-4. Other Tools & Technologies:
-
-Git & GitHub, VS Code, Jupyter Notebook, Amplitude
+4. Other Tools & Technologies - Git & GitHub, VS Code, Jupyter Notebook, Amplitude
 
 📊 Areas of Interest
 
