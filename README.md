@@ -39,15 +39,7 @@ I’m Pranav Goenka, a driven and detail-oriented individual with a strong inter
 
 🚀 What You’ll Find Here
 
-1. Real-world data/business/product analytics projects
-
-2. SQL problem-solving & case studies
-
-3. Power BI dashboards
-
-4. Business & product analytics work
-
-5. End-to-end projects from raw data → insights
+Real-world data/business/product analytics projects, SQL problem-solving & case studies, Power BI dashboards, Business & product analytics work and End-to-end projects from raw data → insights
 
 🌐 Connect with Me
 
