@@ -27,15 +27,7 @@ I’m Pranav Goenka, a driven and detail-oriented individual with a strong inter
 
 📊 Areas of Interest
 
-1. Data Analysis & Business Intelligence
-
-2. SQL & Database Management
-
-3. Dashboarding & Data Visualization
-
-4. Product & Business Analytics
-
-5. Process Automation & Optimization
+Data Analysis & Business Intelligence, SQL & Database Management, Dashboarding & Data Visualization, Product & Business Analytics, Process Automation & Optimization
 
 🚀 What You’ll Find Here
 
